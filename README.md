@@ -63,3 +63,8 @@
       target="_blank"></a>
 
 </div>
+
+  <img src="https://activity-graph.herokuapp.com/graph?username=typejulio&bg_color=121214&color=ffffff&line=8B008B&point=0891b2&area_color=121214&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph""
+      target="_blank" height="270em">
+  
+
