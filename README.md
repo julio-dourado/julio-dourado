@@ -3,7 +3,7 @@
 - 🌱 Apaixonado por aprender e ensinar!
 - 👯 Gosto de participar de projetos **colaborativos*.
 - 🤔 Curso Engenharia na UNB 3/10.
-- 😄 Interaja comigos em minhas redes sociais!
+- 😄 Interaja comigos em minhas redes sociais! ⬇️
 
 
 
