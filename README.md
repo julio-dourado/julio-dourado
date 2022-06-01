@@ -15,7 +15,7 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=typejulio&layout=compact&langs_count=7&theme=cobalt" />
 </div>
 
-
+<div aling="center">
 <div style="display: inline_block"><br>
   <img align="center" alt="Julio-Js" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -27,20 +27,20 @@
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Julio-Python" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Julio-Csharp" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Julio-figma" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Julio-Canvas" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-  <img align="center" alt="Julio-Github" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="Julio-Vscode" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Julio-Wp" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
 </div>
-
+</div>
+  
+##
+  <img src="https://activity-graph.herokuapp.com/graph?username=typejulio&bg_color=121214&color=ffffff&line=8B008B&point=0891b2&area_color=121214&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"
+      target="_blank" height="240em">
 ##
 
 <div>
@@ -63,10 +63,7 @@
       target="_blank"></a>
 
 </div>
-  
-##
 
-  <img src="https://activity-graph.herokuapp.com/graph?username=typejulio&bg_color=121214&color=ffffff&line=8B008B&point=0891b2&area_color=121214&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"
-      target="_blank" height="270em">
+
   
 
