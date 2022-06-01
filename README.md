@@ -5,6 +5,8 @@
 - 🤔 Curso Engenharia na UNB 3/10.
 - 😄 Interaja comigos em minhas redes sociais!
 
+
+
 <div align="center">
   <a href="https://github.com/typejulio">
     <img height="180em"
@@ -12,6 +14,7 @@
     <img height="180em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=typejulio&layout=compact&langs_count=7&theme=cobalt" />
 </div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Julio-Js" height="30" width="40"
