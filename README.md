@@ -15,6 +15,7 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=typejulio&layout=compact&langs_count=7&theme=cobalt" />
 </div>
 
+  <blockquote>
 <div aling="center">
 <div style="display: inline_block"><br>
   <img align="center" alt="Julio-Js" height="30" width="40"
@@ -37,7 +38,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
 </div>
 </div>
-  
+  </blockquote>
 ##
   <img src="https://activity-graph.herokuapp.com/graph?username=typejulio&bg_color=121214&color=ffffff&line=8B008B&point=0891b2&area_color=121214&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"
       target="_blank" height="240em">
