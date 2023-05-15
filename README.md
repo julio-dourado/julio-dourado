@@ -2,7 +2,7 @@
 
 - 🌱 Apaixonado por aprender e ensinar!
 - 👯 Gosto de participar de projetos **colaborativos**.
-- 🤔 Curso Engenharia na UNB 4/10.
+- 🤔 Curso Engenharia na UNB 5/10.
 - 😄 Atualmente criando projetos Front-end e UI Design.
 ##
 <div align="center">
