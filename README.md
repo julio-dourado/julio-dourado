@@ -3,7 +3,7 @@
 - 🌱 Apaixonado por aprender e ensinar!
 - 👯 Gosto de participar de projetos **colaborativos**.
 - 🤔 Curso Engenharia na UNB.
-- 😄 Atualmente criando projetos Front-end e UI Design.
+- 😄 Atualmente criando projetos Back-end e UI Design.
 ##
 <div align="center">
   <a href="https://github.com/typejulio">
