@@ -1,0 +1,230 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nunito {
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+  }
+
+.poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+  
+.poppins-medium {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #FBFEFD;
+    color: #333;
+    line-height: 1.6;
+}
+
+header {
+    color: #111827;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0;
+    text-align: center;
+}
+
+ul {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    list-style: none;
+    gap: 820px; /* Define um valor padrão em pixels */
+}
+
+li {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.margin-card {
+    margin: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.menu-btn-with-image {
+    background-image: url('../assets/Hamburguer.svg');
+    background-color: inherit;
+    background-size: cover; /* ajusta a imagem ao tamanho do botão */
+    width: 30px; /* ajuste conforme necessário */
+    height: 30px; /* ajuste conforme necessário */
+    border: none; /* remove a borda padrão do botão */
+    cursor: pointer; /* altera o cursor quando hover */
+  }
+  
+.options-menu {
+    display: none;
+}
+  
+.show-menu {
+    display: block;
+}
+
+.home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 20px;
+}
+
+.home-content-card {
+    background: linear-gradient(to bottom right, #A4FB96, #DFFFF4);
+    border-radius: 44px;
+    width: 1000px;
+    height: 632px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.principal {
+    flex:80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.home-image-div {
+    background-color: aliceblue;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h1-text-1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+.h1-text-2 {
+    font-size: 44px;
+    text-align: center;
+}
+
+.ideias {
+    background-image: linear-gradient(to right, #40C4FF 0%, #189FFF 81%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    position: relative;
+}
+
+.h1-image {
+    width: 40px;
+}
+
+.botoes {
+    flex: 20%;
+    display: flex;
+    gap: 16px;
+}
+
+.botao-1 {
+    width: 130px;
+    height: 37px;
+    border-radius: 32px;
+    font-size: 14px;
+    background-color: #111827;
+    color: #FBFEFD;
+    cursor: pointer;
+    border: none;
+}
+
+.botao-2 {
+    width: 130px;
+    height: 37px;
+    background: none; /* Remove o fundo */
+    border: none; /* Remove a borda */
+    padding: 0; /* Remove o preenchimento */
+    cursor: pointer; /* Muda o cursor ao passar por cima */
+    text-decoration: underline;
+}
+
+/* Path: css/responsive.css */
+
+@media screen and (max-width: 1200px) {
+    ul {
+        gap: 574px; /* Aumenta o gap para 40 pixels */
+    }
+
+    .home-content-card {
+        width: 744px;
+        height: 500px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    ul {
+        gap: 400px; /* Mantém o gap em 20 pixels */
+    }
+
+    .home-content-card {
+        width: 570px;
+        height: 500px;
+    }
+}
+
+@media screen and (max-width: 615px) {
+    ul {
+        gap: 350px; /* Mantém o gap em 20 pixels */
+    }
+
+    .home-content-card {
+        width: 520px;
+        height: 500px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    ul {
+        gap: 200px; /* Reduz o gap para 10 pixels */
+    }
+
+    .home-content-card {
+        width: 370px;
+        height: 500px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    ul {
+        gap: 38vw; /* Reduz o gap para 10 pixels */
+    }
+
+    .home-content-card {
+        width: 320px;
+        height: 500px;
+    }
+} 
