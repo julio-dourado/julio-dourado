@@ -3,7 +3,7 @@
 - 🌱 Apaixonado por aprender e ensinar!
 - 👯 Gosto de participar de projetos **colaborativos**.
 - 🤔 Curso Engenharia na UNB.
-- 😄 Atualmente criando projetos Fullstack.
+- 😄 Atualmente criando projetos Fullstack e de Engenharia de dados.
 ##
 <div align="center">
   <a href="https://github.com/julio-dourado">
