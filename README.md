@@ -1,6 +1,6 @@
 ### Olá! Sou o Julio Cesar Almeida Dourado 👋
 
-Estudante de **Engenharia de Software na UnB** (conclusão prevista em dez/2027). Gosto de construir o software
+Estudante de **Engenharia de Software na UnB** (conclusão prevista em jul/2027). Gosto de construir o software
 ao redor de modelos de IA: APIs de inferência, feedback humano, observabilidade e os pipelines de dados que
 alimentam tudo isso.
 
